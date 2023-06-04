@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>🌎 Flag Quiz</title>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" integrity="sha512-NhSC1YmyruXifcj/KFRWoC561YpHpc5Jtzgvbuzx5VozKpWvQ+4nXhPdFgmx8xqexRcpAglTj9sIBWINXa8x5w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="./assets/css/styles.css">
+</head>
+<body>
+    <div class="background">
+        <img src="./assets/bg/3073-CFwXwozTS6.jpeg">
+    </div>
+    
+    <div class="alert-screen">
+        <p class="game-title">Flagnation</p>
+        <span class="game-subtitle">Bem-vindo ao flagnation, descubra de qual lugar são as bandeiras e marque pontos.</span>
+        <button class="start-button" onclick="iniciarJogo()">
+             <i class="fa-solid fa-play"></i>
+             <span>Começar</span>
+        </button>
+    </div>
+
+    <div class="container">
+        <div class="header">
+            <span class="title">Flagnation</span>
+            <span class="countdown">
+                <i class="fa-solid fa-clock"></i>
+                <span>Tempo:<b id="timer">00</b></span>
+            </span>
+        </div>
+        
+        <div class="play-board">
+            <img src="./assets/img/1.png" alt="" class="flag-img">
+            <p class="question">De qual lugar é essa bandeira?</p>
+            <input type="text" placeholder="Resposta" id="answer-input" onkeydown="enviarResposta()">
+        </div>
+
+        <div class="infos"> 
+            <span id="info-text">Template</span>
+            <p id="try-again">Template</p>
+        </div>
+
+        <hr class="footer-line">
+        <div class="footer">
+            <div class="score">
+                <span>
+                    <i class="fa-solid fa-star"></i>
+                    <span>Score:<b id="score-counter">0</b></span>
+                </span>
+                <span>
+                    <i class="fa-solid fa-trophy"></i>
+                    <span>High Score:<b id="high-score"></b></span>
+                </span>
+            </div>
+        </div>    
+    </div>
+
+    <script src="https://kit.fontawesome.com/8265838916.js" crossorigin="anonymous"></script>
+    <script src="./assets/js/index.js"></script>
+</body>
+</html>

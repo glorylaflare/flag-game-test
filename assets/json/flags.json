@@ -1,0 +1,1676 @@
+[
+    {
+        "img":  "./assets/img/1.png",
+        "nome": "mauritânia"
+    },
+    {
+        "img":  "./assets/img/2.png",
+        "nome": "chipre"
+    },
+    {
+        "img":  "./assets/img/3.png",
+        "nome": "áustria"
+    },
+    {
+        "img": "./assets/img/4.png",
+        "nome": "omã"
+    },
+    {
+        "img":  "./assets/img/5.png",
+        "nome": "etiópia"
+    },
+    {
+        "img":  "./assets/img/6.png",
+        "nome": "tanzânia"
+    },
+    {
+        "img": "./assets/img/7.png",
+        "nome": "nicarágua"
+    },    
+    {
+        "img": "./assets/img/8.png",
+        "nome": "estônia"
+    },
+    {
+        "img":	"./assets/img/7.png",
+        "nome": "nicarágua"
+    },
+    {
+        "img":	"./assets/img/8.png",
+        "nome": "estônia"
+    },
+    {
+    "img":	"./assets/img/9.png",
+        "nome": "uganda"
+    },
+    {
+    "img":	"./assets/img/10.png",
+        "nome": "eslovênia"
+    },
+    {
+    "img":	"./assets/img/11.png",
+        "nome": "zimbábue"
+    },
+    {
+    "img":	"./assets/img/12.png",
+        "nome": "são tomé e príncipe"
+    },
+    {
+    "img":	"./assets/img/13.png",
+        "nome": "itália"
+    },
+    {
+    "img":	"./assets/img/14.png",
+        "nome": "país de gales"
+    },
+    {
+    "img":	"./assets/img/15.png",
+        "nome": "el salvador"
+    },
+    {
+    "img":	"./assets/img/16.png",
+        "nome": "nepal"
+    },
+    {
+    "img":	"./assets/img/17.png",
+        "nome": "ilha christmas"
+    },
+    {
+    "img":	"./assets/img/18.png",
+        "nome": "líbano"
+    },
+    {
+    "img":	"./assets/img/19.png",
+        "nome": "ceuta"
+    },
+    {
+    "img":	"./assets/img/20.png",
+        "nome": "iraque"
+    },
+    {
+    "img":	"./assets/img/21.png",
+        "nome": "ilhas cook"
+    },
+    {
+    "img":	"./assets/img/22.png",
+        "nome": "síria"
+    },
+    {
+    "img":	"./assets/img/23.png",
+        "nome": "ilhas cocos"
+    },
+    {
+    "img":	"./assets/img/24.png",
+        "nome": "honduras"
+    },
+    {
+    "img":	"./assets/img/25.png",
+        "nome": "anguilla"
+    },
+    {
+    "img":	"./assets/img/26.png",
+        "nome": "catar"
+    },
+    {
+    "img":	"./assets/img/27.png",
+        "nome": "samoa americana"
+    },
+    {
+    "img":	"./assets/img/28.png",
+        "nome": "porto rico"
+    },
+    {
+    "img":	"./assets/img/29.png",
+        "nome": "comores"
+    },
+    {
+    "img":	"./assets/img/30.png",
+        "nome": "coreia do norte"
+    },
+    {
+    "img":	"./assets/img/31.png",
+        "nome": "córsega"
+    },
+    {
+    "img":	"./assets/img/32.png",
+        "nome": "zâmbia"
+    },
+    {
+    "img":	"./assets/img/33.png",
+        "nome": "são cristóvão e névis"
+    },
+    {
+    "img":	"./assets/img/34.png",
+        "nome": "china"
+    },
+    {
+    "img":	"./assets/img/35.png",
+        "nome": "luxemburgo"
+    },
+    {
+    "img":	"./assets/img/36.png",
+        "nome": "república centro-africana"
+    },
+    {
+    "img":	"./assets/img/37.png",
+        "nome": "jamaica"
+    },
+    {
+    "img":	"./assets/img/38.png",
+        "nome": "cabo verde"
+    },
+    {
+    "img":	"./assets/img/39.png",
+        "nome": "mônaco"
+    },
+    {
+    "img":	"./assets/img/40.png",
+        "nome": "butão"
+    },
+    {
+    "img":	"./assets/img/41.png",
+        "nome": "paraguai"
+    },
+    {
+    "img":	"./assets/img/42.png",
+        "nome": "aruba"
+    },
+    {
+    "img":	"./assets/img/43.png",
+        "nome": "montserrat"
+    },
+    {
+    "img":	"./assets/img/44.png",
+        "nome": "letônia"
+    },
+    {
+    "img":	"./assets/img/45.png",
+        "nome": "andorra"
+    },
+    {
+    "img":	"./assets/img/46.png",
+        "nome": "micronésia"
+    },
+    {
+    "img":	"./assets/img/47.png",
+        "nome": "república dominicana"
+    },
+    {
+    "img":	"./assets/img/48.png",
+        "nome": "abecásia"
+    },
+    {
+    "img":	"./assets/img/49.png",
+        "nome": "tunísia"
+    },
+    {
+    "img":	"./assets/img/50.png",
+        "nome": "mauritânia"
+    },
+    {
+    "img":	"./assets/img/51.png",
+        "nome": "ilhas cayman"
+    },
+    {
+    "img":	"./assets/img/52.png",
+        "nome": "kosovo"
+    },
+    {
+    "img":	"./assets/img/53.png",
+        "nome": "gana"
+    },
+    {
+    "img":	"./assets/img/54.png",
+        "nome": "ilhas canárias"
+    },
+    {
+    "img":	"./assets/img/55.png",
+        "nome": "escócia"
+    },
+    {
+    "img":	"./assets/img/56.png",
+        "nome": "guiné-bissau"
+    },
+    {
+    "img":	"./assets/img/57.png",
+        "nome": "burundi"
+    },
+    {
+    "img":	"./assets/img/58.png",
+        "nome": "myanmar"
+    },
+    {
+    "img":	"./assets/img/59.png",
+        "nome": "gabão"
+    },
+    {
+    "img":	"./assets/img/60.png",
+        "nome": "benin"
+    },
+    {
+    "img":	"./assets/img/61.png",
+        "nome": "saba"
+    },
+    {
+    "img":	"./assets/img/62.png",
+        "nome": "namíbia"
+    },
+    {
+    "img":	"./assets/img/63.png",
+        "nome": "japão"
+    },
+    {
+    "img":	"./assets/img/64.png",
+        "nome": "lituânia"
+    },
+    {
+    "img":	"./assets/img/65.png",
+        "nome": "eritréia"
+    },
+    {
+    "img":	"./assets/img/66.png",
+        "nome": "chade"
+    },
+    {
+    "img":	"./assets/img/67.png",
+        "nome": "quênia"
+    },
+    {
+    "img":	"./assets/img/68.png",
+        "nome": "djibuti"
+    },
+    {
+    "img":	"./assets/img/69.png",
+        "nome": "território britânico do oceano índico"
+    },
+    {
+    "img":	"./assets/img/70.png",
+        "nome": "tuvalu"
+    },
+    {
+    "img":	"./assets/img/71.png",
+        "nome": "sérvia"
+    },
+    {
+    "img":	"./assets/img/72.png",
+        "nome": "bonaire"
+    },
+    {
+    "img":	"./assets/img/73.png",
+        "nome": "togo"
+    },
+    {
+    "img":	"./assets/img/74.png",
+        "nome": "cazaquistão"
+    },
+    {
+    "img":	"./assets/img/75.png",
+        "nome": "antígua e barbuda"
+    },
+    {
+    "img":	"./assets/img/76.png",
+        "nome": "suriname"
+    },
+    {
+    "img":	"./assets/img/77.png",
+        "nome": "jordânia"
+    },
+    {
+    "img":	"./assets/img/78.png",
+        "nome": "belize"
+    },
+    {
+    "img":	"./assets/img/79.png",
+        "nome": "são bartolomeu"
+    },
+    {
+    "img":	"./assets/img/80.png",
+        "nome": "islândia"
+    },
+    {
+    "img":	"./assets/img/81.png",
+        "nome": "bermudas"
+    },
+    {
+    "img":	"./assets/img/82.png",
+        "nome": "nações unidas"
+    },
+    {
+    "img":	"./assets/img/83.png",
+        "nome": "somália"
+    },
+    {
+    "img":	"./assets/img/84.png",
+        "nome": "barbados"
+    },
+    {
+    "img":	"./assets/img/85.png",
+        "nome": "ilhas salomão"
+    },
+    {
+    "img":	"./assets/img/86.png",
+        "nome": "nigéria"
+    },
+    {
+    "img":	"./assets/img/87.png",
+        "nome": "ilhas aland"
+    },
+    {
+    "img":	"./assets/img/88.png",
+        "nome": "uruguai"
+    },
+    {
+    "img":	"./assets/img/89.png",
+        "nome": "são martinho"
+    },
+    {
+    "img":	"./assets/img/90.png",
+        "nome": "burkina faso"
+    },
+    {
+    "img":	"./assets/img/91.png",
+        "nome": "eslováquia"
+    },
+    {
+    "img":	"./assets/img/92.png",
+        "nome": "serra leoa"
+    },
+    {
+    "img":	"./assets/img/93.png",
+        "nome": "país basco"
+    },
+    {
+    "img":	"./assets/img/94.png",
+        "nome": "coreia do sul"
+    },
+    {
+    "img":	"./assets/img/95.png",
+        "nome": "ilhas pitcairn"
+    },
+    {
+    "img":	"./assets/img/96.png",
+        "nome": "moçambique"
+    },
+    {
+    "img":	"./assets/img/97.png",
+        "nome": "san marino"
+    },
+    {
+    "img":	"./assets/img/98.png",
+        "nome": "guatemala"
+    },
+    {
+    "img":	"./assets/img/99.png",
+        "nome": "albânia"
+    },
+    {
+    "img":	"./assets/img/100.png",
+        "nome": "paquistão"
+    },
+    {
+    "img":	"./assets/img/101.png",
+        "nome": "república turca do chipre do norte"
+    },
+    {
+    "img":	"./assets/img/102.png",
+        "nome": "ilhas baleares"
+    },
+    {
+    "img":	"./assets/img/103.png",
+        "nome": "ilhas marshall"
+    },
+    {
+    "img":	"./assets/img/104.png",
+        "nome": "equador"
+    },
+    {
+    "img":	"./assets/img/105.png",
+        "nome": "camarões"
+    },
+    {
+    "img":	"./assets/img/106.png",
+        "nome": "panamá"
+    },
+    {
+    "img":	"./assets/img/107.png",
+        "nome": "kuwait"
+    },
+    {
+    "img":	"./assets/img/108.png",
+        "nome": "armênia"
+    },
+    {
+    "img":	"./assets/img/109.png",
+        "nome": "romênia"
+    },
+    {
+    "img":	"./assets/img/110.png",
+        "nome": "guiné"
+    },
+    {
+    "img":	"./assets/img/111.png",
+        "nome": "afeganistão"
+    },
+    {
+    "img":	"./assets/img/112.png",
+        "nome": "laos"
+    },
+    {
+    "img":	"./assets/img/113.png",
+        "nome": "groenlândia"
+    },
+    {
+    "img":	"./assets/img/114.png",
+        "nome": "ilhas virgens britânicas"
+    },
+    {
+    "img":	"./assets/img/115.png",
+        "nome": "hungria"
+    },
+    {
+    "img":	"./assets/img/116.png",
+        "nome": "curaçao"
+    },
+    {
+    "img":	"./assets/img/117.png",
+        "nome": "angola"
+    },
+    {
+    "img":	"./assets/img/118.png",
+        "nome": "malásia"
+    },
+    {
+    "img":	"./assets/img/119.png",
+        "nome": "brunei"
+    },
+    {
+    "img":	"./assets/img/120.png",
+        "nome": "bahamas"
+    },
+    {
+    "img":	"./assets/img/121.png",
+        "nome": "nova zelândia"
+    },
+    {
+    "img":	"./assets/img/122.png",
+        "nome": "ilhas faroe"
+    },
+    {
+    "img":	"./assets/img/123.png",
+        "nome": "colúmbia britânica"
+    },
+    {
+    "img":	"./assets/img/124.png",
+        "nome": "vaticano"
+    },
+    {
+    "img":	"./assets/img/125.png",
+        "nome": "finlândia"
+    },
+    {
+    "img":	"./assets/img/126.png",
+        "nome": "botsuana"
+    },
+    {
+    "img":	"./assets/img/127.png",
+        "nome": "sri lanka"
+    },
+    {
+    "img":	"./assets/img/128.png",
+        "nome": "espanha"
+    },
+    {
+    "img":	"./assets/img/129.png",
+        "nome": "ossétia do sul"
+    },
+    {
+    "img":	"./assets/img/130.png",
+        "nome": "sicília"
+    },
+    {
+    "img":	"./assets/img/131.png",
+        "nome": "chile"
+    },
+    {
+    "img":	"./assets/img/132.png",
+        "nome": "bósnia"
+    },
+    {
+    "img":	"./assets/img/133.png",
+        "nome": "arábia saudita"
+    },
+    {
+    "img":	"./assets/img/134.png",
+        "nome": "liechtenstein"
+    },
+    {
+    "img":	"./assets/img/135.png",
+        "nome": "bielorrúsia"
+    },
+    {
+    "img":	"./assets/img/136.png",
+        "nome": "irã"
+    },
+    {
+    "img":	"./assets/img/137.png",
+        "nome": "fiji"
+    },
+    {
+    "img":	"./assets/img/138.png",
+        "nome": "bahrein"
+    },
+    {
+    "img":	"./assets/img/139.png",
+        "nome": "venezuela"
+    },
+    {
+    "img":	"./assets/img/140.png",
+        "nome": "timor-leste"
+    },
+    {
+    "img":	"./assets/img/141.png",
+        "nome": "azerbaijão"
+    },
+    {
+    "img":	"./assets/img/142.png",
+        "nome": "tibete"
+    },
+    {
+    "img":	"./assets/img/143.png",
+        "nome": "noruega"
+    },
+    {
+    "img":	"./assets/img/144.png",
+        "nome": "argélia"
+    },
+    {
+    "img":	"./assets/img/145.png",
+        "nome": "ucrânia"
+    },
+    {
+    "img":	"./assets/img/146.png",
+        "nome": "gâmbia"
+    },
+    {
+    "img":	"./assets/img/147.png",
+        "nome": "bangladesh"
+    },
+    {
+    "img":	"./assets/img/148.png",
+        "nome": "ilha da madeira"
+    },
+    {
+    "img":	"./assets/img/149.png",
+        "nome": "república tcheca"
+    },
+    {
+    "img":	"./assets/img/150.png",
+        "nome": "bolívia"
+    },
+    {
+    "img":	"./assets/img/151.png",
+        "nome": "emirados árabes unidos"
+    },
+    {
+    "img":	"./assets/img/152.png",
+        "nome": "quirguistão"
+    },
+    {
+    "img":	"./assets/img/153.png",
+        "nome": "cuba"
+    },
+    {
+    "img":	"./assets/img/154.png",
+        "nome": "essuatíni"
+    },
+    {
+    "img":	"./assets/img/155.png",
+        "nome": "israel"
+    },
+    {
+    "img":	"./assets/img/156.png",
+        "nome": "costa rica"
+    },
+    {
+    "img":	"./assets/img/157.png",
+        "nome": "república do congo"
+    },
+    {
+    "img":	"./assets/img/158.png",
+        "nome": "egito"
+    },
+    {
+    "img":	"./assets/img/159.png",
+        "nome": "camboja"
+    },
+    {
+    "img":	"./assets/img/160.png",
+        "nome": "ilhas marianas do norte"
+    },
+    {
+    "img":	"./assets/img/161.png",
+        "nome": "costa do marfim"
+    },
+    {
+    "img":	"./assets/img/162.png",
+        "nome": "alemanha"
+    },
+    {
+    "img":	"./assets/img/163.png",
+        "nome": "papua nova guiné"
+    },
+    {
+    "img":	"./assets/img/164.png",
+        "nome": "croácia"
+    },
+    {
+    "img":	"./assets/img/165.png",
+        "nome": "bélgica"
+    },
+    {
+    "img":	"./assets/img/166.png",
+        "nome": "marrocos"
+    },
+    {
+    "img":	"./assets/img/167.png",
+        "nome": "macau"
+    },
+    {
+    "img":	"./assets/img/168.png",
+        "nome": "bulgária"
+    },
+    {
+    "img":	"./assets/img/169.png",
+        "nome": "libéria"
+    },
+    {
+    "img":	"./assets/img/170.png",
+        "nome": "grécia"
+    },
+    {
+    "img":	"./assets/img/171.png",
+        "nome": "ilhas galapágos"
+    },
+    {
+    "img":	"./assets/img/172.png",
+        "nome": "santa lúcia"
+    },
+    {
+    "img":	"./assets/img/173.png",
+        "nome": "mali"
+    },
+    {
+    "img":	"./assets/img/174.png",
+        "nome": "dinamarca"
+    },
+    {
+    "img":	"./assets/img/175.png",
+        "nome": "ilha de páscoa"
+    },
+    {
+    "img":	"./assets/img/176.png",
+        "nome": "lesoto"
+    },
+    {
+    "img":	"./assets/img/177.png",
+        "nome": "colômbia"
+    },
+    {
+    "img":	"./assets/img/178.png",
+        "nome": "palau"
+    },
+    {
+    "img":	"./assets/img/179.png",
+        "nome": "irlanda"
+    },
+    {
+    "img":	"./assets/img/180.png",
+        "nome": "polinésia francesa"
+    },
+    {
+    "img":	"./assets/img/181.png",
+        "nome": "trinidad e tobago"
+    },
+    {
+    "img":	"./assets/img/182.png",
+        "nome": "niue"
+    },
+    {
+    "img":	"./assets/img/183.png",
+        "nome": "hong kong"
+    },
+    {
+    "img":	"./assets/img/184.png",
+        "nome": "suécia"
+    },
+    {
+    "img":	"./assets/img/185.png",
+        "nome": "haiti"
+    },
+    {
+    "img":	"./assets/img/186.png",
+        "nome": "dominica"
+    },
+    {
+    "img":	"./assets/img/187.png",
+        "nome": "vanuatu"
+    },
+    {
+    "img":	"./assets/img/188.png",
+        "nome": "peru"
+    },
+    {
+    "img":	"./assets/img/189.png",
+        "nome": "guiné equatorial"
+    },
+    {
+    "img":	"./assets/img/190.png",
+        "nome": "uzbequistão"
+    },
+    {
+    "img":	"./assets/img/191.png",
+        "nome": "tonga"
+    },
+    {
+    "img":	"./assets/img/192.png",
+        "nome": "filipinas"
+    },
+    {
+    "img":	"./assets/img/193.png",
+        "nome": "ilhas norfolk"
+    },
+    {
+    "img":	"./assets/img/194.png",
+        "nome": "malta"
+    },
+    {
+    "img":	"./assets/img/195.png",
+        "nome": "frança"
+    },
+    {
+    "img":	"./assets/img/196.png",
+        "nome": "tajiquistão"
+    },
+    {
+    "img":	"./assets/img/197.png",
+        "nome": "melilha"
+    },
+    {
+    "img":	"./assets/img/198.png",
+        "nome": "argentina"
+    },
+    {
+    "img":	"./assets/img/199.png",
+        "nome": "sudão"
+    },
+    {
+    "img":	"./assets/img/200.png",
+        "nome": "áfrica do sul"
+    },
+    {
+    "img":	"./assets/img/201.png",
+        "nome": "martinica"
+    },
+    {
+    "img":	"./assets/img/202.png",
+        "nome": "taiwan"
+    },
+    {
+    "img":	"./assets/img/203.png",
+        "nome": "saara ocidental"
+    },
+    {
+    "img":	"./assets/img/204.png",
+        "nome": "guernsey"
+    },
+    {
+    "img":	"./assets/img/205.png",
+        "nome": "suíça"
+    },
+    {
+    "img":	"./assets/img/206.png",
+        "nome": "ruanda"
+    },
+    {
+    "img":	"./assets/img/207.png",
+        "nome": "guam"
+    },
+    {
+    "img":	"./assets/img/208.png",
+        "nome": "palestina"
+    },
+    {
+    "img":	"./assets/img/209.png",
+        "nome": "indonésia"
+    },
+    {
+    "img":	"./assets/img/210.png",
+        "nome": "granada"
+    },
+    {
+    "img":	"./assets/img/211.png",
+        "nome": "polônia"
+    },
+    {
+    "img":	"./assets/img/212.png",
+        "nome": "moldávia"
+    },
+    {
+    "img":	"./assets/img/213.png",
+        "nome": "gibraltar"
+    },
+    {
+    "img":	"./assets/img/214.png",
+        "nome": "malawi"
+    },
+    {
+    "img":	"./assets/img/215.png",
+        "nome": "ilhas malvinas"
+    },
+    {
+    "img":	"./assets/img/216.png",
+        "nome": "inglaterra"
+    },
+    {
+    "img":	"./assets/img/217.png",
+        "nome": "ilhas virgens americanas"
+    },
+    {
+    "img":	"./assets/img/218.png",
+        "nome": "turquia"
+    },
+    {
+    "img":	"./assets/img/219.png",
+        "nome": "ilha de man"
+    },
+    {
+    "img":	"./assets/img/220.png",
+        "nome": "vietnã"
+    },
+    {
+    "img":	"./assets/img/221.png",
+        "nome": "tuvalu"
+    },
+    {
+    "img":	"./assets/img/222.png",
+        "nome": "niger"
+    },
+    {
+    "img":	"./assets/img/223.png",
+        "nome": "ilhas turcas e caicos"
+    },
+    {
+    "img":	"./assets/img/224.png",
+        "nome": "portugal"
+    },
+    {
+    "img":	"./assets/img/225.png",
+        "nome": "maldivas"
+    },
+    {
+    "img":	"./assets/img/226.png",
+        "nome": "estados unidos"
+    },
+    {
+    "img":	"./assets/img/227.png",
+        "nome": "senegal"
+    },
+    {
+    "img":	"./assets/img/228.png",
+        "nome": "nauru"
+    },
+    {
+    "img":	"./assets/img/229.png",
+        "nome": "turcomenistão"
+    },
+    {
+    "img":	"./assets/img/230.png",
+        "nome": "cingapura"
+    },
+    {
+    "img":	"./assets/img/231.png",
+        "nome": "líbia"
+    },
+    {
+    "img":	"./assets/img/232.png",
+        "nome": "iêmen"
+    },
+    {
+    "img":	"./assets/img/233.png",
+        "nome": "transnístria"
+    },
+    {
+    "img":	"./assets/img/234.png",
+        "nome": "austrália"
+    },
+    {
+    "img":	"./assets/img/235.png",
+        "nome": "tokelau"
+    },
+    {
+    "img":	"./assets/img/236.png",
+        "nome": "macedônia"
+    },
+    {
+    "img":	"./assets/img/237.png",
+        "nome": "países baixos"
+    },
+    {
+    "img":	"./assets/img/238.png",
+        "nome": "tailândia"
+    },
+    {
+    "img":	"./assets/img/239.png",
+        "nome": "montenegro"
+    },
+    {
+    "img":	"./assets/img/240.png",
+        "nome": "açores"
+    },
+    {
+    "img":	"./assets/img/241.png",
+        "nome": "são vicente e granadinas"
+    },
+    {
+    "img":	"./assets/img/242.png",
+        "nome": "madagascar"
+    },
+    {
+    "img":	"./assets/img/243.png",
+        "nome": "canadá"
+    },
+    {
+    "img":	"./assets/img/244.png",
+        "nome": "sudão do sul"
+    },
+    {
+    "img":	"./assets/img/245.png",
+        "nome": "jersey"
+    },
+    {
+    "img":	"./assets/img/246.png",
+        "nome": "índia"
+    },
+    {
+    "img":	"./assets/img/247.png",
+        "nome": "somalilândia"
+    },
+    {
+    "img":	"./assets/img/248.png",
+        "nome": "rússia"
+    },
+    {
+    "img":	"./assets/img/249.png",
+        "nome": "república democrática do congo"
+    },
+    {
+    "img":	"./assets/img/250.png",
+        "nome": "ilha de santo eustáquio"
+    },
+    {
+    "img":	"./assets/img/251.png",
+        "nome": "samoa"
+    },
+    {
+    "img":	"./assets/img/252.png",
+        "nome": "méxico"
+    },
+    {
+    "img":	"./assets/img/253.png",
+        "nome": "seychelles"
+    },
+    {
+    "img":	"./assets/img/254.png",
+        "nome": "nato"
+    },
+    {
+    "img":	"./assets/img/255.png",
+        "nome": "brasil"
+    },
+    {
+    "img":	"./assets/img/256.png",
+        "nome": "geórgia"
+    },
+    {
+    "img":	"./assets/img/257.png",
+        "nome": "sardenha"
+    },
+    {
+    "img":	"./assets/img/258.png",
+        "nome": "mongólia"
+    },
+    {
+    "img":	"./assets/img/259.png",
+        "nome": "união europeia"
+    },
+    {
+    "img":	"./assets/img/260.png",
+        "nome": "reino unido"
+    },
+    {
+    "img":	"./assets/img/261.png",
+        "nome": "kiribati"
+    },
+    {
+    "img":	"./assets/img/262.png",
+        "nome": "havaí"
+    },
+    {
+    "img":	"./assets/img/263.png",
+        "nome": "antilhas holandesas"
+    },
+    {
+    "img":	"./assets/img/264.png",
+        "nome": "guadalupe"
+    },
+    {
+    "img":	"./assets/img/265.png",
+        "nome": "bornéu do norte"
+    },
+    {
+    "img":	"./assets/img/266.png",
+        "nome": "são pedro e miquelão"
+    },
+    {
+    "img":	"./assets/img/267.png",
+        "nome": "zanzibar"
+    },
+    {
+    "img":	"./assets/img/268.png",
+        "nome": "galícia"
+    },
+    {
+    "img":	"./assets/img/269.png",
+        "nome": "zaire"
+    },
+    {
+    "img":	"./assets/img/270.png",
+        "nome": "antártida"
+    },
+    {
+    "img":	"./assets/img/271.png",
+        "nome": "paraíba"
+    },
+    {
+    "img":	"./assets/img/272.png",
+        "nome": "sergipe"
+    },
+    {
+    "img":	"./assets/img/273.png",
+        "nome": "amapá"
+    },
+    {
+    "img":	"./assets/img/274.png",
+        "nome": "pará"
+    },
+    {
+    "img":	"./assets/img/275.png",
+        "nome": "piauí"
+    },
+    {
+    "img":	"./assets/img/276.png",
+        "nome": "rio grande do norte"
+    },
+    {
+    "img":	"./assets/img/277.png",
+        "nome": "pernambuco"
+    },
+    {
+    "img":	"./assets/img/278.png",
+        "nome": "rio de janeiro"
+    },
+    {
+    "img":	"./assets/img/279.png",
+        "nome": "bahia"
+    },
+    {
+    "img":	"./assets/img/280.png",
+        "nome": "alagoas"
+    },
+    {
+    "img":	"./assets/img/281.png",
+        "nome": "mato grosso"
+    },
+    {
+    "img":	"./assets/img/282.png",
+        "nome": "mato grosso do sul"
+    },
+    {
+    "img":	"./assets/img/283.png",
+        "nome": "minas gerais"
+    },
+    {
+    "img":	"./assets/img/284.png",
+        "nome": "rondônia"
+    },
+    {
+    "img":	"./assets/img/285.png",
+        "nome": "santa catarina"
+    },
+    {
+    "img":	"./assets/img/286.png",
+        "nome": "acre"
+    },
+    {
+    "img":	"./assets/img/287.png",
+        "nome": "amazonas"
+    },
+    {
+    "img":	"./assets/img/288.png",
+        "nome": "ceará"
+    },
+    {
+    "img":	"./assets/img/289.png",
+        "nome": "distrito federal"
+    },
+    {
+    "img":	"./assets/img/290.png",
+        "nome": "espírito santo"
+    },
+    {
+    "img":	"./assets/img/291.png",
+        "nome": "são paulo"
+    },
+    {
+    "img":	"./assets/img/292.png",
+        "nome": "maranhão"
+    },
+    {
+    "img":	"./assets/img/293.png",
+        "nome": "paraná"
+    },
+    {
+    "img":	"./assets/img/294.png",
+        "nome": "rio grande do sul"
+    },
+    {
+    "img":	"./assets/img/295.png",
+        "nome": "tocantins"
+    },
+    {
+    "img":	"./assets/img/296.png",
+        "nome": "goias"
+    },
+    {
+    "img":	"./assets/img/297.png",
+        "nome": "roraima"
+    },
+    {
+    "img":	"./assets/img/298.png",
+        "nome": "ilha de ascenção"
+    },
+    {
+    "img":	"./assets/img/299.png",
+        "nome": "ilhas geórgia do sul e sandwich do sul"
+    },
+    {
+    "img":	"./assets/img/300.png",
+        "nome": "tristão da cunha"
+    },
+    {
+    "img":	"./assets/img/301.png",
+        "nome": "santa helena"
+    },
+    {
+    "img":	"./assets/img/302.png",
+        "nome": "aracaju"
+    },
+    {
+    "img":	"./assets/img/303.png",
+        "nome": "belém"
+    },
+    {
+    "img":	"./assets/img/304.png",
+        "nome": "belo horizonte"
+    },
+    {
+    "img":	"./assets/img/305.png",
+        "nome": "boa vista"
+    },
+    {
+    "img":	"./assets/img/306.png",
+        "nome": "campo grande"
+    },
+    {
+    "img":	"./assets/img/307.png",
+        "nome": "cidade de são paulo"
+    },
+    {
+    "img":	"./assets/img/308.png",
+        "nome": "cidade do rio de janeiro"
+    },
+    {
+    "img":	"./assets/img/309.png",
+        "nome": "cuiabá"
+    },
+    {
+    "img":	"./assets/img/310.png",
+        "nome": "curitiba"
+    },
+    {
+    "img":	"./assets/img/311.png",
+        "nome": "fernando de noronha"
+    },
+    {
+    "img":	"./assets/img/312.png",
+        "nome": "florianópolis"
+    },
+    {
+    "img":	"./assets/img/313.png",
+        "nome": "fortaleza"
+    },
+    {
+    "img":	"./assets/img/314.png",
+        "nome": "goiânia"
+    },
+    {
+    "img":	"./assets/img/315.png",
+        "nome": "joão pessoa"
+    },
+    {
+    "img":	"./assets/img/316.png",
+        "nome": "macapá"
+    },
+    {
+    "img":	"./assets/img/317.png",
+        "nome": "maceió"
+    },
+    {
+    "img":	"./assets/img/318.png",
+        "nome": "manaus"
+    },
+    {
+    "img":	"./assets/img/319.png",
+        "nome": "natal"
+    },
+    {
+    "img":	"./assets/img/320.png",
+        "nome": "palmas"
+    },
+    {
+    "img":	"./assets/img/321.png",
+        "nome": "porto alegre"
+    },
+    {
+    "img":	"./assets/img/322.png",
+        "nome": "porto velho"
+    },
+    {
+    "img":	"./assets/img/323.png",
+        "nome": "recife"
+    },
+    {
+    "img":	"./assets/img/324.png",
+        "nome": "rio branco"
+    },
+    {
+    "img":	"./assets/img/325.png",
+        "nome": "salvador"
+    },
+    {
+    "img":	"./assets/img/326.png",
+        "nome": "são luís"
+    },
+    {
+    "img":	"./assets/img/327.png",
+        "nome": "teresina"
+    },
+    {
+    "img":	"./assets/img/328.png",
+        "nome": "vitória"
+    },
+    {
+    "img":	"./assets/img/329.png",
+        "nome": "alaska"
+    },
+    {
+    "img":	"./assets/img/330.png",
+        "nome": "amsterdã"
+    },
+    {
+    "img":	"./assets/img/331.png",
+        "nome": "atol de palmyra"
+    },
+    {
+    "img":	"./assets/img/332.png",
+        "nome": "bretanha"
+    },
+    {
+    "img":	"./assets/img/333.png",
+        "nome": "califórnia"
+    },
+    {
+    "img":	"./assets/img/334.png",
+        "nome": "catalunha"
+    },
+    {
+    "img":	"./assets/img/335.png",
+        "nome": "chechênia"
+    },
+    {
+    "img":	"./assets/img/336.png",
+        "nome": "chicago"
+    },
+    {
+    "img":	"./assets/img/337.png",
+        "nome": "gambier"
+    },
+    {
+    "img":	"./assets/img/338.png",
+        "nome": "guiana francesa"
+    },
+    {
+    "img":	"./assets/img/339.png",
+        "nome": "guiana"
+    },
+    {
+    "img":	"./assets/img/340.png",
+        "nome": "ilha da reunião"
+    },
+    {
+    "img":	"./assets/img/341.png",
+        "nome": "ilha da sociedade"
+    },
+    {
+    "img":	"./assets/img/342.png",
+        "nome": "ilha lorde howe"
+    },
+    {
+    "img":	"./assets/img/343.png",
+        "nome": "ilha malpelo"
+    },
+    {
+    "img":	"./assets/img/344.png",
+        "nome": "ilha wake"
+    },
+    {
+    "img":	"./assets/img/345.png",
+        "nome": "ilhas austrais"
+    },
+    {
+    "img":	"./assets/img/346.png",
+        "nome": "ilhas marquesas"
+    },
+    {
+    "img":	"./assets/img/347.png",
+        "nome": "ilhas midway"
+    },
+    {
+    "img":	"./assets/img/348.png",
+        "nome": "los angeles"
+    },
+    {
+    "img":	"./assets/img/349.png",
+        "nome": "nova brunswick"
+    },
+    {
+    "img":	"./assets/img/350.png",
+        "nome": "nova iorque"
+    },
+    {
+    "img":	"./assets/img/351.png",
+        "nome": "nueva esparta"
+    },
+    {
+    "img":	"./assets/img/352.png",
+        "nome": "órcades"
+    },
+    {
+    "img":	"./assets/img/353.png",
+        "nome": "san andrés e providência"
+    },
+    {
+    "img":	"./assets/img/354.png",
+        "nome": "tanganica"
+    },
+    {
+    "img":	"./assets/img/355.png",
+        "nome": "tasmânia"
+    },
+    {
+    "img":	"./assets/img/356.png",
+        "nome": "texas"
+    },
+    {
+    "img":	"./assets/img/357.png",
+        "nome": "tuamotu"
+    },
+    {
+    "img":	"./assets/img/358.png",
+        "nome": "wallis e futuna"
+    },
+    {
+    "img":	"./assets/img/359.png",
+        "nome": "união soviética"
+    },
+    {
+    "img":	"./assets/img/360.png",
+        "nome": "adjara"
+    },
+    {
+    "img":	"./assets/img/361.png",
+        "nome": "amur"
+    },
+    {
+    "img":	"./assets/img/362.png",
+        "nome": "arizona"
+    },
+    {
+    "img":	"./assets/img/363.png",
+        "nome": "berlim"
+    },
+    {
+    "img":	"./assets/img/364.png",
+        "nome": "bornholm"
+    },
+    {
+    "img":	"./assets/img/365.png",
+        "nome": "brabante do norte"
+    },
+    {
+    "img":	"./assets/img/366.png",
+        "nome": "buenos aires"
+    },
+    {
+    "img":	"./assets/img/367.png",
+        "nome": "cairo"
+    },
+    {
+    "img":	"./assets/img/368.png",
+        "nome": "curdistão"
+    },
+    {
+    "img":	"./assets/img/369.png",
+        "nome": "frísia"
+    },
+    {
+    "img":	"./assets/img/370.png",
+        "nome": "inguchétia"
+    },
+    {
+    "img":	"./assets/img/371.png",
+        "nome": "iowa"
+    },
+    {
+    "img":	"./assets/img/372.png",
+        "nome": "jerusalém"
+    },
+    {
+    "img":	"./assets/img/373.png",
+        "nome": "lombardia"
+    },
+    {
+    "img":	"./assets/img/374.png",
+        "nome": "mississípi"
+    },
+    {
+    "img":	"./assets/img/375.png",
+        "nome": "missouri"
+    },
+    {
+    "img":	"./assets/img/376.png",
+        "nome": "nova gales do sul"
+    },
+    {
+    "img":	"./assets/img/377.png",
+        "nome": "puntlândia"
+    },
+    {
+    "img":	"./assets/img/378.png",
+        "nome": "quebec"
+    },
+    {
+    "img":	"./assets/img/379.png",
+        "nome": "tenessi"
+    },
+    {
+    "img":	"./assets/img/380.png",
+        "nome": "toronto"
+    },
+    {
+    "img":	"./assets/img/381.png",
+        "nome": "varsóvia"
+    },
+    {
+    "img":	"./assets/img/382.png",
+        "nome": "córdoba"
+    },
+    {
+    "img":	"./assets/img/383.png",
+        "nome": "sealand"
+    },
+    {
+    "img":	"./assets/img/384.png",
+        "nome": "svalbard"
+    },
+    {
+    "img":	"./assets/img/385.png",
+        "nome": "bascortostão"
+    },
+    {
+    "img":	"./assets/img/386.png",
+        "nome": "shetland"
+    },
+    {
+    "img":	"./assets/img/387.png",
+        "nome": "geórgia"
+    },
+    {
+    "img":	"./assets/img/388.png",
+        "nome": "tóquio"
+    },
+    {
+    "img":	"./assets/img/389.png",
+        "nome": "arkansas"
+    },
+    {
+    "img":	"./assets/img/390.png",
+        "nome": "alabama"
+    },
+    {
+    "img":	"./assets/img/391.png",
+        "nome": "flórida"
+    },
+    {
+    "img":	"./assets/img/392.png",
+        "nome": "carolina do norte"
+    },
+    {
+    "img":	"./assets/img/393.png",
+        "nome": "carolina do sul"
+    },
+    {
+    "img":	"./assets/img/394.png",
+        "nome": "corolado"
+    },
+    {
+    "img":	"./assets/img/395.png",
+        "nome": "roma"
+    },
+    {
+    "img":	"./assets/img/396.png",
+        "nome": "andaluzia"
+    },
+    {
+    "img":	"./assets/img/397.png",
+        "nome": "iugoslávia"
+    },
+    {
+    "img":	"./assets/img/398.png",
+        "nome": "madrid"
+    },
+    {
+    "img":	"./assets/img/399.png",
+        "nome": "terra do fogo"
+    },
+    {
+    "img":	"./assets/img/400.png",
+        "nome": "gagaúzia"
+    },
+    {
+    "img":	"./assets/img/401.png",
+        "nome": "território antártico britânico"
+    },
+    {
+    "img":	"./assets/img/402.png",
+        "nome": "daguestão"
+    },
+    {
+    "img":	"./assets/img/403.png",
+        "nome": "londres"
+    },
+    {
+    "img":	"./assets/img/404.png",
+        "nome": "mayotte"
+    },
+    {
+    "img":	"./assets/img/405.png",
+        "nome": "união do magrebe árabe"
+    },
+    {
+    "img":	"./assets/img/406.png",
+        "nome": "buriácia"
+    },
+    {
+    "img":	"./assets/img/407.png",
+        "nome": "columbia"
+    },
+    {
+    "img":	"./assets/img/408.png",
+        "nome": "lapões"
+    },
+    {
+    "img":	"./assets/img/409.png",
+        "nome": "rostov"
+    },
+    {
+    "img":	"./assets/img/410.png",
+        "nome": "santa cruz"
+    },
+    {
+    "img":	"./assets/img/411.png",
+        "nome": "moscou"
+    },
+    {
+    "img":	"./assets/img/412.png",
+        "nome": "artsaque"
+    },
+    {
+    "img":	"./assets/img/413.png",
+        "nome": "antuérpia"
+    },
+    {
+    "img":	"./assets/img/414.png",
+        "nome": "cidade do méxico"
+    },
+    {
+    "img":	"./assets/img/415.png",
+        "nome": "mordóvia"
+    }
+]
+
+
+
+
+
+
